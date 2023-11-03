@@ -5,8 +5,7 @@ import yaml
 
 intents = discord.Intents.all()
 
-TOKEN = 'NzM1ODE0NDY3OTEyMzM1NDIw.Gbag8N.sWjw38ISAmkAKeCyHqUSd76cYBP42SRspZaVZY'  # BOT!!
-# TOKEN = 'ODI5MjQ4ODMxMzg0MzIyMDQ4.GW02IZ.CHapRkkSE_sn8y5lTdmZw_AFvZrV5n-CkaS6PM'  # 実験
+TOKEN = #TOKEN
 
 bot = commands.Bot(command_prefix='/', intents=intents)
 
